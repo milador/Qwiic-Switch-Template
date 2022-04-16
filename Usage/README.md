@@ -27,7 +27,7 @@
   
 ### How to Customize?
 
-  1. Enter Settings Mode by press holding switch Number One 3 times for 4 seconds. The LED turns and stays Orange.
+  1. Enter Settings Mode by press holding switch Number Two 3 times for 4 seconds. The LED turns and stays Orange.
   2. Press Switch One to Increase Reaction level ( Maximum is 10 ) : LED blinks in Blue 
   3. Press Switch Two to Decrease Reaction level ( Minimum is 1 ) : LED blink in Red 
   4. ..
